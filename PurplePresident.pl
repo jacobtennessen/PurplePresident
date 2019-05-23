@@ -10,7 +10,8 @@ use Getopt::Std;
 use vars qw( $opt_g $opt_i $opt_r $opt_x $opt_y $opt_w $opt_h );
 
 my $usage = "
-PurplePresident.pl - This script produces another script, to be run in R. That script generates a series of image files. These can be combined into a single gif with a tool like ImageMagick.
+PurplePresident.pl - This script produces another script, to be run in R. That script generates a series of image files.
+These can be combined into a single gif with a tool like ImageMagick.
 
 Copyright (C) 2019 by Jacob A Tennessen
 
